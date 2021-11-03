@@ -1,5 +1,5 @@
 # MCU-Dash-Python
-A simple scripts to achieve the data acquisition with mcu on dashboard. Note that the formal version of the product is not public now.  
+A simple scripts to achieve the data acquisition with mcu on dashboard. Note that the scripts are not formal and official version of our product. Instead, one can take this similar idea to do real-time data collection.   
 
 ## Installation:
 
