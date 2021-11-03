@@ -20,6 +20,6 @@ The ROGTrueVoltician is our product to combine the use of mcu with dashboard to 
   
 ### Brief Introduction:  
 ![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/introduction.png)  
-### Website:  
+### Dashboard:  
 ![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/page1.png)  
 
