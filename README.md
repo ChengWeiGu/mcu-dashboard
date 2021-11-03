@@ -1,6 +1,5 @@
 # MCU-Dash-Python
-A simple scripts to achieve the data acquisition with mcu on dashboard.  
-Note that the formal version of the product is not public now.  
+A simple scripts to achieve the data acquisition with mcu on dashboard. Note that the formal version of the product is not public now.  
 
 ## Installation:
 
@@ -9,18 +8,19 @@ pip install -r requirements.txt
 
 ## Description:
 
-1. The setting file: Config.ini  
-2. The function for reading config: ConfigReader.py  
-3. Start the program by commanding:  python App.py  
-4. The voltage data is saved under .\data\OK or NG  
-5. If MCU is connected, please chose "real mode" to collect current data  
-6. If you just want to show the old data, please choose "file mode"  
+1. Config.ini: The config setting  
+2. Start the program by commanding: python App.py  
+3. If MCU is connected, please chose "real mode" to collect current data  
+4. If you just want to show the old data, please choose "file mode"  
   
 ![image](https://github.com/ChengWeiGu/MCU-Dash-Python/blob/main/Display.PNG)  
   
 ## ASUS Product:
 
 According to the privacy of product, there is no release code for official version on github.The ROGTrueVoltician is our product to combine the use of mcu with dashboard to achieve the real-time data acquisition for electric signals:  
+  
+Brief Introduction:  
 ![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/introduction.png)  
+Website:  
 ![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/page1.png)  
 
