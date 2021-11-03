@@ -13,12 +13,9 @@ pip install -r requirements.txt
 3. If MCU is connected, please chose "real mode" to collect current data  
 4. If you just want to show the old data, please choose "file mode"  
   
-### The unofficial Website:  
-![image](https://github.com/ChengWeiGu/MCU-Dash-Python/blob/main/Display.PNG)  
-  
 ## ASUS Product:
 
-According to the privacy of product, there is no release code for official version on github.The ROGTrueVoltician is our product to combine the use of mcu with dashboard to achieve the real-time data acquisition for electric signals:  
+The ROGTrueVoltician is our product to combine the use of mcu with dashboard to achieve the real-time data acquisition for electric signals. According to the privacy of product, there is no release code for official version on github. You will not see the same result and layout of the dashboard after executing the App.py:  
   
 ### Brief Introduction:  
 ![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/introduction.png)  
