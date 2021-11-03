@@ -20,9 +20,7 @@ pip install -r requirements.txt
   
 ## ASUS Product:
 
-According to the privacy of product, there is no release code for official version on github.  
-The ROGTrueVoltician is our product to combine the use of mcu with dashboard to achieve the  
-real-time data acquisition for electric signals:  
-![image](https://github.com/ChengWeiGu/MCU-Dash-Python/blob/main/Display.PNG)  
-![image](https://github.com/ChengWeiGu/MCU-Dash-Python/blob/main/Display.PNG)  
+According to the privacy of product, there is no release code for official version on github.The ROGTrueVoltician is our product to combine the use of mcu with dashboard to achieve the real-time data acquisition for electric signals:  
+![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/introduction.png)  
+![image](https://github.com/ChengWeiGu/mcu-dashboard/blob/main/page1.png)  
 
